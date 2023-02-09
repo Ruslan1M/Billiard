@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb10a45b88e64b78859a093e67505570, type: 3}
+  m_Name: BallConfig
+  m_EditorClassIdentifier: 
+  BallSpawnPoints:
+  - {x: 4.5, y: 0, z: 0}
+  - {x: 4.95, y: -0.25, z: 0}
+  - {x: 4.95, y: 0.25, z: 0}
+  - {x: 5.4, y: 0.5, z: 0}
+  - {x: 5.85, y: 0.25, z: 0}
+  - {x: 5.85, y: 0.75, z: 0}
+  - {x: 5.85, y: -0.75, z: 0}
+  - {x: 5.85, y: -0.25, z: 0}
+  - {x: 5.4, y: 0, z: 0}
+  - {x: 6.3, y: 0.5, z: 0}
+  - {x: 6.3, y: 1, z: 0}
+  - {x: 6.3, y: -0.5, z: 0}
+  - {x: 6.3, y: -1, z: 0}
+  - {x: 6.3, y: 0, z: 0}
+  - {x: 5.4, y: -0.5, z: 0}
+  BallSprites:
+  - {fileID: 21300000, guid: 0722984525b42994aa252121d9004fd0, type: 3}
+  - {fileID: 21300000, guid: f095de9e1fe59564d8fa91b7bb480809, type: 3}
+  - {fileID: 21300000, guid: d65567f88a2db1741b00b94aa4fd95f4, type: 3}
+  - {fileID: 21300000, guid: f7c53d744338c264a9b50fbe464c9705, type: 3}
+  - {fileID: 21300000, guid: 5954372ad87c4234f808ce0ece0efc5f, type: 3}
+  - {fileID: 21300000, guid: d99faf2e388a937449290cd70d09f89d, type: 3}
+  - {fileID: 21300000, guid: b81ef1445febe264d96e357a846ae5f9, type: 3}
+  - {fileID: 21300000, guid: 123cd1b4351b75a42a22f135064a96ad, type: 3}
+  - {fileID: 21300000, guid: 3f85dbe7d6c7ffa4488e8b32fa2903a2, type: 3}
+  - {fileID: 21300000, guid: 217b3eae53951df42839081382cadd14, type: 3}
+  - {fileID: 21300000, guid: d5659958abbcf8248923ce43b80b5d10, type: 3}
+  - {fileID: 21300000, guid: a3b9cfe1519413949a12ab0752485db1, type: 3}
+  - {fileID: 21300000, guid: e5c7279fb28b119498d5eeab7a01add2, type: 3}
+  - {fileID: 21300000, guid: fc768f17aca8f0f4c8ddaf22d95cb0c3, type: 3}
+  - {fileID: 21300000, guid: 902c323ae20ea8b4f940d35bb01aae57, type: 3}
